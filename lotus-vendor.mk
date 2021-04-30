@@ -551,6 +551,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lotus/proprietary/vendor/lib/lib_speech_enh.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_speech_enh.so \
     vendor/xiaomi/lotus/proprietary/vendor/lib/libabfadp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libabfadp.so \
     vendor/xiaomi/lotus/proprietary/vendor/lib/libacdk.so:$(TARGET_COPY_OUT_VENDOR)/lib/libacdk.so \
+    vendor/xiaomi/lotus/proprietary/vendor/lib/libaedv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaedv.so \
     vendor/xiaomi/lotus/proprietary/vendor/lib/libarcsoft_beautyshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_beautyshot.so \
     vendor/xiaomi/lotus/proprietary/vendor/lib/libarcsoft_bokeh.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_bokeh.so \
     vendor/xiaomi/lotus/proprietary/vendor/lib/libarcsoft_dualcam_refocus.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_dualcam_refocus.so \
@@ -679,6 +680,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lotus/proprietary/vendor/lib/libipsec_ims_shr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libipsec_ims_shr.so \
     vendor/xiaomi/lotus/proprietary/vendor/lib/libjpeg-alpha.so:$(TARGET_COPY_OUT_VENDOR)/lib/libjpeg-alpha.so \
     vendor/xiaomi/lotus/proprietary/vendor/lib/libksensor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libksensor.so \
+    vendor/xiaomi/lotus/proprietary/vendor/lib/libladder.so:$(TARGET_COPY_OUT_VENDOR)/lib/libladder.so \
     vendor/xiaomi/lotus/proprietary/vendor/lib/libmediacodecservice.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmediacodecservice.so \
     vendor/xiaomi/lotus/proprietary/vendor/lib/libmemtrack_GL.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmemtrack_GL.so \
     vendor/xiaomi/lotus/proprietary/vendor/lib/libmfido.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmfido.so \
@@ -1022,6 +1024,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lotus/proprietary/vendor/lib64/libipsec_ims_shr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libipsec_ims_shr.so \
     vendor/xiaomi/lotus/proprietary/vendor/lib64/libjpeg-alpha.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libjpeg-alpha.so \
     vendor/xiaomi/lotus/proprietary/vendor/lib64/libksensor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libksensor.so \
+    vendor/xiaomi/lotus/proprietary/vendor/lib64/libladder.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libladder.so \
     vendor/xiaomi/lotus/proprietary/vendor/lib64/libmemtrack_GL.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmemtrack_GL.so \
     vendor/xiaomi/lotus/proprietary/vendor/lib64/libmfido.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmfido.so \
     vendor/xiaomi/lotus/proprietary/vendor/lib64/libmhalImageCodec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmhalImageCodec.so \
